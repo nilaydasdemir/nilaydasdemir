@@ -1,6 +1,6 @@
 ### Hi, I'm Nilay 👋
 
-Informatik student at KIT, Karlsruhe — doing the degree in my third
+Informatik student at KIT, Karlsruhe.
 language, which makes exam weeks interesting.
 
 Still figuring out which parts of this I like. Currently losing an
