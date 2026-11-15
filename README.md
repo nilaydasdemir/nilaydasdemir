@@ -1,7 +1,6 @@
 ### Hi, I'm Nilay 👋
 
 Informatik student at KIT, Karlsruhe.
-language, which makes exam weeks interesting.
 
 Still figuring out which parts of this I like. Currently losing an
 argument with C++ pointers. I keep a running list of small problems
